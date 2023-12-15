@@ -29,11 +29,12 @@ navbar-links:
   Research Themes:
     - Quantum Fluids and Atom-Light Interactions: "research/qfali"
     - Cold Molecules: "research/coldmol"
-    - Quantum Computing: "research/quantcomp"
+#    - Quantum Computing: "research/quantcomp"
     - Rydberg Systems: "research/rydberg"
     - Quantum Technologies: "research/tech"
     - Thermal Vapours: "research/vapours"
   Groups:
+    - CaF Group: "research/coldmol/cafcool"
     - Cornish Group: "https://cornishgroup.github.io/"
     - Terahertz Group: "research/tech/terahertz"
   EDI: "edi/"
